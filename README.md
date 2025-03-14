@@ -1,8 +1,6 @@
 # ⏱️ Tab Time Tracker
 
-> Track your digital time with elegance and simplicity
-
-![Extension Preview](screenshot/screenshot.png)
+Track your digital time with elegance and simplicity
 
 ## ✨ Features
 
