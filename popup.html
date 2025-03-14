@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tab Time Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="currentTab">
+    <div id="currentUrl">Current Tab</div>
+    <div id="ticker">00:00:00</div>
+  </div>
+  <div class="tab-container">
+    <button class="tab-btn active" data-tab="all">All Time</button>
+    <button class="tab-btn" data-tab="daily">Today</button>
+    <button class="tab-btn" data-tab="weekly">This Week</button>
+  </div>
+  <h2 id="statsTitle">Total Time Spent</h2>
+  <div id="timeList"></div>
+  <div class="button-container">
+    <button id="exportBtn" class="export-btn">Export Data</button>
+    <button id="resetBtn" class="reset-btn">Reset Data</button>
+  </div>
+  <div class="footer">Made by Aradhya</div>
+  <script src="popup.js"></script>
+</body>
+</html> 
