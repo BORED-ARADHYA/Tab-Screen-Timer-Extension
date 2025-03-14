@@ -2,7 +2,7 @@
 
 > Track your digital time with elegance and simplicity
 
-![Extension Preview](screenshots/preview.png)
+![Extension Preview](screenshot/screenshot.png)
 
 ## ✨ Features
 
@@ -51,28 +51,6 @@ View your browsing data in three convenient formats:
 - `manifest.json`: Extension configuration
 - `background.js`: Tracking logic
 - `popup.html`: Extension popup
-
-### Browser Support
-- Google Chrome (Latest)
-- Chromium-based browsers
-
-## 🤝 Contributing
-
-Found a bug? Have a feature idea? Contributions are welcome!
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Support
-
-If you find this extension useful, please give it a star! ⭐
 
 ---
 
