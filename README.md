@@ -51,7 +51,3 @@ View your browsing data in three convenient formats:
 - `popup.html`: Extension popup
 
 ---
-
-<div align="center">
-Made with ❤️ by Aradhya
-</div>
